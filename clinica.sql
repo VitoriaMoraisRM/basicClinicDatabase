@@ -1,6 +1,3 @@
-create database Clinica;
-use Clinica;
-
 create table Cargos(
 idCargo integer not null auto_increment,
 primary key (idCargo),
